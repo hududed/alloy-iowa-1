@@ -1,6 +1,6 @@
 # alloy-iowa-1
 
-Colab [link] (https://colab.research.google.com/github/hududed/alloy-iowa-1/blob/main/mlr3mbo_batch_AlCeMg.ipynb)
+Colab [link](https://colab.research.google.com/github/hududed/alloy-iowa-1/blob/main/mlr3mbo_batch_AlCeMg.ipynb)
 
 ## License
 
