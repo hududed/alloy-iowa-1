@@ -5,7 +5,7 @@ library(bbotk)
 library(data.table)
 library(tibble)
 
-source("mlr3mbo-demo/utils/processing.R") # for colab, adjust this if run locally
+source("alloy-iowa-1/utils/processing.R") # for colab, adjust this if run locally
 
 propose_experiment <- function(data, metadata) {
     set.seed(metadata$seed)
