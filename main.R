@@ -174,7 +174,7 @@ ggplot(interp_df, aes(x = PC1, y = PC2, fill = Average)) +
 # %%
 # Import functions (see https://github.com/hududed/mlr3mbo-demo.git for the source files)
 # FOR UPDATES MAKE SURE THIS IS SOURCED, NOT mlr3mbo-demo/utils/batch.R!
-source("mlr3mbo-demo/utils/update.R") # for colab, adjust this if run locally
+source("alloy-iowa-1/utils/update.R") # for colab, adjust this if run locally
 
 # %%
 # Please upload the new updated file in your session (See Folder icon on the left pane)
